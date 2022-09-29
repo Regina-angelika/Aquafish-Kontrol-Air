@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module fritzingVersion="0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806" icon="Mine.png">
+    <title>My Parts</title>
+    <instances>
+        <instance moduleIdRef="HeltecWiFiLoRa32" modelIndex="5752" path="C:/Users/lenovo/Documents/Fritzing/parts/user/HeltecWiFiLoRa32.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="LCD2004-I2C" modelIndex="5757" path="C:/Users/lenovo/Documents/Fritzing/parts/user/LCD2004-I2C.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="6f006c0ea5c100c0eae6312c298c453b" modelIndex="5762" path="C:/Users/lenovo/Documents/Fritzing/parts/user/DS18B20_1_Wire_Temperature_Sensor__3571205ef24c5d77f8f3950d608688bb.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="tds-sensor-meter-v1.0_1" modelIndex="5767" path="C:/Users/lenovo/Documents/Fritzing/parts/user/tds-sensor-meter-v1.0_1.fzp">
+            <views/>
+        </instance>
+    </instances>
+</module>
